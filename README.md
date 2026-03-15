@@ -199,11 +199,4 @@ Pola pembatalan transaksi:
 - Mengidentifikasi pelanggan dengan pola pembelian dalam jumlah besar untuk mengetahui apakah pelanggan tersebut merupakan **reseller atau pelanggan bisnis**.
 - Menerapkan monitoring terhadap transaksi dengan **quantity ekstrem** untuk mendeteksi potensi anomali lebih awal.
 
----
 
-# Author
-
-**Rahajeng Febri Shafiyah**
-
-Lulusan Informatika Universitas Muhammadiyah Malang  
-Data Enthusiast | Tertarik pada Data Analytics dan Artificial Intelligence
